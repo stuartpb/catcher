@@ -1,0 +1,19 @@
+{
+  "name": "catcher",
+  "version": "0.1.0",
+  "description": "microscopic Node error helpers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stuartpb/catcher.git"
+  },
+  "keywords": [
+    "error",
+    "handling"
+  ],
+  "author": "Stuart P. Bentley",
+  "license": "MIT"
+}
